@@ -72,7 +72,7 @@
 - [DECAF](https://github.com/sycurelab/DECAF) - DECAF(short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.  This is also the home of the DroidScope dynamic Android malware analysis platform. DroidScope is now an extension to DECAF.
 - [fi6s](https://github.com/sfan5/fi6s) - IPv6 network scanner designed to be fast
 - [igoat](https://github.com/OWASP/igoat) - OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yermalkar
-- [SpecuCheck](https://github.com/ionescu007/SpecuCheck) - SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)
+- [SpecuCheck](https://github.com/ionescu007/SpecuCheck) - SpecuCheck is a Windows utility for checking the state of the software mitigations and hardware against  CVE-2017-5754 (Meltdown), CVE-2017-5715 (Spectre v2), CVE-2018-3260 (Foreshadow), and CVE-2018-3639 (Spectre v4)
 - [android-afl](https://github.com/ele7enxxh/android-afl) - Fuzzing Android program with american fuzzy lop (AFL)
 - [tsh](https://github.com/orangetw/tsh) - Tiny SHell is an open-source UNIX backdoor.
 - [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
@@ -289,6 +289,7 @@
 - [ssh2docker](https://github.com/moul/ssh2docker) - :whale: standalone SSH server that connects you to your Docker containers
 - [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [doctl](https://github.com/digitalocean/doctl) - A command line tool for DigitalOcean services
+- [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 
 ## Groff 
@@ -343,7 +344,6 @@
 - [devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
 - [metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [OWASP-mth3l3m3nt-framework](https://github.com/alienwithin/OWASP-mth3l3m3nt-framework) - OWASP Mth3l3m3nt Framework is a penetration testing aiding tool and exploitation framework. It fosters a principle of attack the web using the web as well as pentest on the go through its responsive interface.
-- [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 
 ## Hack 
 
@@ -426,7 +426,7 @@
 - [xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript.
 - [repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
 - [pcapdb](https://github.com/dirtbags/pcapdb) - A Distributed, Search-Optimized Full Packet Capture System
-- [hawkeye](https://github.com/Stono/hawkeye) - A project security/vulnerability/risk scanning tool
+- [scanner-cli](https://github.com/hawkeyesec/scanner-cli) - A project security/vulnerability/risk scanning tool
 - [wssip](https://github.com/nccgroup/wssip) - Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
 - [intrigue-core](https://github.com/intrigueio/intrigue-core) - Discover your attack surface!
 - [retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities
